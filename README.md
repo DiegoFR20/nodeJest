@@ -1,5 +1,6 @@
 # O que é
 Este é um projeto de estudo sobre o funcionamento de testes com Jest.
+
 ## O que foi utilizado
  - NodeJS
  - Jest
@@ -13,7 +14,7 @@ Este é um projeto de estudo sobre o funcionamento de testes com Jest.
  - Express
 
 ## O que faz?
-Lista projetos de um usuário do github. Não há muita coisa, serve apenas para ter uma base sobre o NextJS
+Roda um servidor local que serve para o estudo de testes com Jest, o servidor é conectado a um banco de dados MySql, o qual cadastra usuários e encripta senhas.
 
 ## Recomendável o uso de Insomnia ou Postman
 Como iniciar os testes
